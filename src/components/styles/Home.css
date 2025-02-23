@@ -1,0 +1,7 @@
+.example {
+    background-image: url("./../../images/example.jpg");
+    width: 2000px;
+    height: 2000px;
+    margin-left: auto;
+    margin-right: auto;
+}
